@@ -1,1 +1,1 @@
-# High-load_web-applicaitons
+# High-load_web-applications
